@@ -1,5 +1,6 @@
 # hdm2_p28_dock
-Data available for journal article titled 'Azurin-Based Peptide p28 Disrupts p53-HDM2 Interactions'
+Data available for journal article titled 'Azurin-Based Peptide p28 Disrupts p53-HDM2 Interactions: A Novel Anti-Cancer Mechanism'
+
 
 Repository Overview
 
